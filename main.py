@@ -1,9 +1,9 @@
-import pygame
-import sys
-from pygame.color import THECOLORS
 import math
 import random
-import itertools
+import sys
+
+import pygame
+from pygame.color import THECOLORS
 
 WIDTH, HEIGHT = 500, 500
 RES = 10
